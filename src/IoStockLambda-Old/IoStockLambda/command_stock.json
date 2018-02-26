@@ -1,0 +1,12 @@
+﻿{
+	"token": "Fz3S46IdAl0GzfBuCqd3SqC9",
+	"team_id": "T03M0HCDA",
+	"team_domain": "iostudio",
+	"channel_id": "D1KKSJB8X",
+	"channel_name": "directmessage",
+	"user_id": "U03MH5M0W",
+	"user_name": "kim_jungwoo",
+	"command": "/coin",
+	"text": "eos",
+	"response_url": "https://hooks.slack.com/commands/T03M0HCDA/242545796692/yDeRPRap8lROX0B40YHQJY6x"
+}

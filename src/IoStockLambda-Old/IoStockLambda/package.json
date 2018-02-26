@@ -1,0 +1,13 @@
+{
+  "name": "io_stock_lambda",
+  "version": "0.0.0",
+  "description": "aws lambda io_stock_lambda",
+  "main": "app.js",
+  "author": {
+    "name": "bwv21"
+  },
+  "dependencies": {
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19"
+  }
+}

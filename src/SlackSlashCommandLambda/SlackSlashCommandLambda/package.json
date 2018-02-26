@@ -1,0 +1,9 @@
+{
+  "name": "slack-slash-command-lambda",
+  "version": "0.0.0",
+  "description": "SlackSlashCommandLambda",
+  "main": "app.js",
+  "author": {
+    "name": "bwv21"
+  }
+}
